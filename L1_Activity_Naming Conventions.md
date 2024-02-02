@@ -47,6 +47,35 @@ Copied from [this post](https://community.databricks.com/t5/data-engineering/dat
   </details>
 <hr> A database focused on healthcare data management, containing patient records, medical histories, prescriptions, and appointments.
 </details>
+
+### Test 
+<details>
+  <summary>Show all answers</summary>
+
+  <hr> <!-- Line before the answers start -->
+
+  <details>
+    <summary>Answer 1</summary>
+    This is the content of Answer 1.
+  </details>
+
+  <hr> <!-- Line between Answer 1 and Answer 2 -->
+
+  <details>
+    <summary>Answer 2</summary>
+    This is the content of Answer 2.
+  </details>
+
+  <hr> <!-- Line between Answer 2 and Answer 3 -->
+
+  <details>
+    <summary>Answer 3</summary>
+    This is the content of Answer 3.
+  </details>
+
+  <hr> <!-- Line after the last answer -->
+</details>
+
 ### Tables:
 A table storing information about employees in an organization, including their contact details, department, and job title.
 A table tracking sales transactions made by a company, recording details such as transaction date, customer ID, product ID, quantity, and total amount.
