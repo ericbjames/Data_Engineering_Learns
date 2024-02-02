@@ -30,22 +30,22 @@ Copied from [this post](https://community.databricks.com/t5/data-engineering/dat
 ### Databases
 <details>
   <summary>Show all DB answers</summary>
-A database containing information related to human resources, including employee records, payroll details, and performance evaluations.
+ <hr> A database containing information related to human resources, including employee records, payroll details, and performance evaluations.
  <details>
     <summary>Answer</summary>
     This is the content of Answer 1.
   </details>
-A database designed for content management, managing articles, blog posts, user comments, and multimedia content.
+<hr> A database designed for content management, managing articles, blog posts, user comments, and multimedia content.
 <details>
     <summary>Answer</summary>
     This is the content of Answer 2.
   </details>
-A database supporting financial transactions, including accounts, transactions, balances, and investments.
+<hr> A database supporting financial transactions, including accounts, transactions, balances, and investments.
 <details>
     <summary>Answer</summary>
     This is the content of Answer 2.
   </details>
-A database focused on healthcare data management, containing patient records, medical histories, prescriptions, and appointments.
+<hr> A database focused on healthcare data management, containing patient records, medical histories, prescriptions, and appointments.
 </details>
 ### Tables:
 A table storing information about employees in an organization, including their contact details, department, and job title.
