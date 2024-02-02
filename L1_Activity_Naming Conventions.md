@@ -1,17 +1,22 @@
 L1_Practicing Naming Conventions
 
 ## Lesson Context
-Creating good naming conventions makes your work last while also allowing others to quickly be able to understand functionality without having to dive into line by line code.
+Creating good naming conventions makes your work last while also allowing others to quickly step in and understand functionality.
+I don't think depending on ChatGPT to solve all your problems is beneficial longterm. Instead, I am testing out having it create me activities that force me to think through solutions.
 
-## How to learn
-Depending on ChatGPT to solve your problems only makes you dependent on it in the future. I want to improve my creative thinking and speed so I asked ChatGPT to give me potential scenarios for the following:
+I need to get better at quick and high-quality naming schemes so I asked ChatGPT to give me potential scenarios for the following:
 - Db's
 - Tables
 - Columns
 - Views
 - Variables
 
+I am gonna do three rounds:
+Round 1: Speed through all of them spending max 1 minute on each and create the first name that I can think of. Perfection is not the goal but speed is. 
 
+Round 2: Research best practices online and spend time coming up with what I would do in a company with the context given. 
+
+Round 3: Compare with what ChatGPT generated (not that this is neccessarily the most optimal but it will help to see the difference.)
 
 ## Best practices collected from Research
 Copied from [this post](https://community.databricks.com/t5/data-engineering/database-objects-naming-convention-for-bronze-silver-and-gold/td-p/6150)
@@ -20,18 +25,28 @@ Copied from [this post](https://community.databricks.com/t5/data-engineering/dat
 - Be descriptive and concise. Use names that indicate the purpose of the object.
 - Avoid using reserved keywords or special characters.
 
-# GPT 
+# Activity 
 
 ### Databases
-A database containing information related to human resources, including employee records, payroll details, and performance evaluations.
 <details>
-  <summary>Show answer</summary>
-
-</details>
+  <summary>Show all DB answers</summary>
+A database containing information related to human resources, including employee records, payroll details, and performance evaluations.
+ <details>
+    <summary>Answer</summary>
+    This is the content of Answer 1.
+  </details>
 A database designed for content management, managing articles, blog posts, user comments, and multimedia content.
+<details>
+    <summary>Answer</summary>
+    This is the content of Answer 2.
+  </details>
 A database supporting financial transactions, including accounts, transactions, balances, and investments.
+<details>
+    <summary>Answer</summary>
+    This is the content of Answer 2.
+  </details>
 A database focused on healthcare data management, containing patient records, medical histories, prescriptions, and appointments.
-
+</details>
 ### Tables:
 A table storing information about employees in an organization, including their contact details, department, and job title.
 A table tracking sales transactions made by a company, recording details such as transaction date, customer ID, product ID, quantity, and total amount.
