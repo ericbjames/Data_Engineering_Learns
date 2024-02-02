@@ -14,29 +14,20 @@ Depending on ChatGPT to solve your problems only makes you dependent on it in th
 
 
 ## Best practices collected from Research
+Copied from [this post](https://community.databricks.com/t5/data-engineering/database-objects-naming-convention-for-bronze-silver-and-gold/td-p/6150)
+- Use lowercase letters for all object names (tables, views, columns, etc.).
+- Separate words with underscores for readability.
+- Be descriptive and concise. Use names that indicate the purpose of the object.
+- Avoid using reserved keywords or special characters.
 
 # GPT 
 
 ### Databases
 A database containing information related to human resources, including employee records, payroll details, and performance evaluations.
-
 <details>
   <summary>Show answer</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
-A database dedicated to e-commerce operations, storing data on products, orders, customers, and inventory.
 A database designed for content management, managing articles, blog posts, user comments, and multimedia content.
 A database supporting financial transactions, including accounts, transactions, balances, and investments.
 A database focused on healthcare data management, containing patient records, medical histories, prescriptions, and appointments.
