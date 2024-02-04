@@ -72,6 +72,8 @@ Quick definition check: A partition is just a group of rows that share the same 
 When used with ROW_NUMBER you get a unique sequential number for every set of rows that share a given column value. 
 
 See diagram:
+<img width="1100" alt="Screenshot 2024-02-04 at 5 14 08 PM" src="https://github.com/ericbjames/Data_Engineering_Learns/assets/101911329/76a691ec-1c10-4723-a682-f9f89d578d97">
+
 
 - What are the tables involved in the query, and what are their primary relationships?
 Production.Product 
