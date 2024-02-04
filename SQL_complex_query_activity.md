@@ -4,7 +4,7 @@ This activity is meant to help me get better at understanding, explaining, and s
 # Activity
 
 ## Query 1
-'''
+```
 WITH ranked_products AS (
     SELECT 
         p.ProductID,
@@ -57,7 +57,7 @@ GROUP BY
 ORDER BY 
     TotalSalesRevenue DESC
 LIMIT 10;
-'''
+```
 
 ### Answering questions about the Query:
 - What do we want from this query?
